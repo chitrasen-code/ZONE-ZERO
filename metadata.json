@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT BATTLE ROYALE",
+  "description": "Original 3D third-person tactical battle royale shooter prototype set on a coastal island with mountains, roads, forests, and military compounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
